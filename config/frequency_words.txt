@@ -9,23 +9,25 @@ DeepSeek
 
 比亚迪
 王传福
+蔚来
+小鹏
+理想汽车
 
 腾讯
-马化腾
 微信
 京东
-刘强东
 阿里
+亚马逊
 
 字节
 bytedance
+抖音
 张一鸣
 
 特斯拉
 马斯克
 X平台
 xAI
-SpaceX
 Tesla
 
 英伟达
@@ -33,20 +35,23 @@ NVIDIA
 AMD
 英特尔
 Intel
+GPU
 
 苹果
 iphone
 ipad
 mac
 ios
+!水果
 
 谷歌
 google
 gemini
 deepmind
+TPU
 
-chatgpt
-openai
+chatGPT
+openAI
 sora
 微软
 Microsoft
@@ -68,27 +73,27 @@ Anthropic
 光刻机
 硅片
 碳化硅
-金刚石
 
 3D打印
-锂电池
+锂电
 固态电池
 液流电池
 储能
-核能
 宁德时代
 
 数字货币
 数字钱包
 比特币
 支付宝
-蚂蚁
+蚂蚁金服
 
-可回收火箭
+火箭
 航天
+SpaceX
 无人机
 大疆
 DJI
 
 合成生物学
 精准医疗
+华大基因
