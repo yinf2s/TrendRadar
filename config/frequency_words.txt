@@ -12,6 +12,7 @@ DeepSeek
 
 腾讯
 马化腾
+微信
 京东
 刘强东
 阿里
@@ -53,7 +54,6 @@ Microsoft
 claude
 Anthropic
 
-ai
 人工智能
 神经网络
 云计算
