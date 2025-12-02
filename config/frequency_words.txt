@@ -3,37 +3,41 @@ DeepSeek
 
 华为
 鸿蒙
-HarmonyOS
+
+小米
+雷军
 
 比亚迪
 王传福
 
-大疆
-DJI
-
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
+腾讯
+马化腾
 京东
 刘强东
+阿里
 
 字节
 bytedance
+张一鸣
 
 特斯拉
 马斯克
-
-微软
-Microsoft
+X平台
+xAI
+SpaceX
+Tesla
 
 英伟达
 NVIDIA
 AMD
+英特尔
+Intel
+
+苹果
+iphone
+ipad
+mac
+ios
 
 谷歌
 google
@@ -43,26 +47,48 @@ deepmind
 chatgpt
 openai
 sora
+微软
+Microsoft
 
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
-
 ai
 人工智能
+神经网络
+云计算
+
 自动驾驶
 机器人
+自适应机器人
+宇数
 
+台积电
 芯片
 光刻机
+硅片
+碳化硅
+金刚石
 
-科技
-
+3D打印
+锂电池
+固态电池
+液流电池
+储能
 核能
-水电站
+宁德时代
 
-新质生产力
+数字货币
+数字钱包
+比特币
+支付宝
+蚂蚁
+
+可回收火箭
+航天
+无人机
+大疆
+DJI
+
+合成生物学
+精准医疗
